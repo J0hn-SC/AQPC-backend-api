@@ -1,0 +1,13 @@
+# misc
+.venv.development
+.venv.production
+.venv.test
+.venv
+
+# python
+venv
+.DS_Store
+__pycache__
+
+# development notes
+todo.txt
